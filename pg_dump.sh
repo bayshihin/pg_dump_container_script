@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Parameters for connecting to the PostgreSQL database
-PGHOST=""
+PGHOST="localhost"
 PGUSER=""
 PGPASSWORD=""
 DATABASE=""
